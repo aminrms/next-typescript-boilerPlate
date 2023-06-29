@@ -1,4 +1,6 @@
+import PageNotFound from "@/core/Templates/PageNotFound";
+
 const Custom404Page = () => {
-  return <h1>404 - Page Not Found</h1>;
+  return <PageNotFound />;
 };
 export default Custom404Page;

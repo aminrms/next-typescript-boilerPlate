@@ -21,6 +21,5 @@ const homeSlicer = createSlice({
   extraReducers: (builder) => {},
 });
 
-// export homeSlicerActions
 
 export default homeSlicer.reducer;
